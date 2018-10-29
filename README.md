@@ -1,2 +1,2 @@
 # Konverter
-An Android app built with Kotlin for converting between units
+An Android app built with Kotlin for converting between units of measure
